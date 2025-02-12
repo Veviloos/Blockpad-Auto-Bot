@@ -1,5 +1,7 @@
 # BlockPad Auto Bot
 
+# Register [here](https://testnet.blockpad.fun/register?ref=V5408M)
+
 A Node.js bot for automating tasks on BlockPad testnet with multi-account and proxy support.
 
 ## Features
